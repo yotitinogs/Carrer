@@ -1,0 +1,6 @@
+llama_index
+dotenv
+qdrant-client
+spacy
+transformers
+torch
